@@ -1,4 +1,5 @@
 # CNN_Garbage_Model
 CNN model to classify garbage images
 
-This model is hosted Streamlit.
+This model is hosted by Streamlit.
+Run command: `streamlit run demo.py`
